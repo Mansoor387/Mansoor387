@@ -23,9 +23,27 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
 
 ## 🛠️ Languages and Tools: 
 
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python"/><img src="https://skillicons.dev/icons?i=cpp"/><img src="https://skillicons.dev/icons?i=sklearn"/><img src="https://skillicons.dev/icons?i=pandas"/><img src="https://skillicons.dev/icons?i=numpy"/><img src="https://skillicons.dev/icons?i=matplotlib"/><img src="https://skillicons.dev/icons?i=seaborn"/><img src="https://skillicons.dev/icons?i=mysql"/><img src="https://skillicons.dev/icons?i=postgresql"/><img src="https://skillicons.dev/icons?i=git"/><img src="https://skillicons.dev/icons?i=github"/><img src="https://skillicons.dev/icons?i=powerbi"/><img src="https://skillicons.dev/icons?i=excel"/><img src="https://skillicons.dev/icons?i=tableau"/><img src="https://skillicons.dev/icons?i=jupyter"/><img src="https://skillicons.dev/icons?i=vscode"/><img src="https://skillicons.dev/icons?i=googlecloud"/>
+  <img src="https://skillicons.dev/icons?i=python" style="display:inline-block;margin:0;padding:0;" width="48"/>
+  <img src="https://skillicons.dev/icons?i=cpp" style="display:inline-block;margin:0;padding:0;" width="48"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" style="display:inline-block;margin:0;padding:0;" width="48"/>
+  <img src="https://skillicons.dev/icons?i=pandas" style="display:inline-block;margin:0;padding:0;" width="48"/>
+  <img src="https://skillicons.dev/icons?i=numpy" style="display:inline-block;margin:0;padding:0;" width="48"/>
+  <img src="https://skillicons.dev/icons?i=matplotlib" style="display:inline-block;margin:0;padding:0;" width="48"/>
+  <img src="https://skillicons.dev/icons?i=seaborn" style="display:inline-block;margin:0;padding:0;" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" style="display:inline-block;margin:0;padding:0;" width="48"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" style="display:inline-block;margin:0;padding:0;" width="48"/>
+  <img src="https://skillicons.dev/icons?i=git" style="display:inline-block;margin:0;padding:0;" width="48"/>
+  <img src="https://skillicons.dev/icons?i=github" style="display:inline-block;margin:0;padding:0;" width="48"/>
+  <img src="https://skillicons.dev/icons?i=powerbi" style="display:inline-block;margin:0;padding:0;" width="48"/>
+  <img src="https://skillicons.dev/icons?i=excel" style="display:inline-block;margin:0;padding:0;" width="48"/>
+  <img src="https://skillicons.dev/icons?i=tableau" style="display:inline-block;margin:0;padding:0;" width="48"/>
+  <img src="https://skillicons.dev/icons?i=jupyter" style="display:inline-block;margin:0;padding:0;" width="48"/>
+  <img src="https://skillicons.dev/icons?i=vscode" style="display:inline-block;margin:0;padding:0;" width="48"/>
+  <img src="https://skillicons.dev/icons?i=googlecloud" style="display:inline-block;margin:0;padding:0;" width="48"/>
 </p>
+
 
 
 ## 🌐 Connect with Me  
