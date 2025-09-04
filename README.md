@@ -51,9 +51,10 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
     <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/>
   </a>
   <a href="https://orcid.org/0009-0005-1116-788X" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/orcid.png" alt="ORCID"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="48" height="48" alt="ORCID"/>
   </a>
 </p>
+
 
 
 
