@@ -18,7 +18,8 @@
 
 I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong passion for **Artificial Intelligence, Data Analytics, Machine Learning, and Deep Learning**. Over the course of my studies and internships, I have developed hands-on experience in **data preprocessing, visualization, exploratory data analysis, and building predictive models**.  
 - 💬 Ask me about **Python, AI, SQL, Excel, Power BI, Machine Learning**
-- 📧 How to reach me: **mansoorbuzder6@gmailcom**  
+-  📧 How to reach me: [mansoorbuzder6@gmail.com](mailto:mansoorbuzder6@gmail.com)  
+
 
 
 
