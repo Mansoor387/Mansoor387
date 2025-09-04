@@ -33,16 +33,13 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48"/>
   <img src="https://cdn.simpleicons.org/git/F05032" width="48"/>
   <img src="https://cdn.simpleicons.org/github/181717" width="48"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48"/>
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48"/>
+  <img src="https://cdn.simpleicons.org/power-bi/F2C811" width="48"/>
+  <img src="https://cdn.simpleicons.org/microsoft-excel/217346" width="48"/>
   <img src="https://cdn.simpleicons.org/tableau/E97627" width="48"/>
   <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="48"/>
+  <img src="https://cdn.simpleicons.org/visual-studio-code/007ACC" width="48"/>
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="48"/>
 </p>
-
-
-
 
 
 ## 🌐 Connect with Me  
