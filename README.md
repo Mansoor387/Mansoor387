@@ -22,15 +22,13 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
 -  🚀 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/mansoor-ahmad-4a3b4625a/)
 
 ## 🛠️ Languages and Tools: 
-
+ 
 
 <p>
   <img src="https://cdn.simpleicons.org/python/3776AB" width="48"/>
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="48"/>
   <img src="https://cdn.simpleicons.org/pandas/150458" width="48"/>
   <img src="https://cdn.simpleicons.org/numpy/013243" width="48"/>
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="48"/>
-  <img src="https://cdn.simpleicons.org/seaborn/2E6E9E" width="48"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48"/>
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48"/>
   <img src="https://cdn.simpleicons.org/git/F05032" width="48"/>
@@ -42,6 +40,7 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="48"/>
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="48"/>
 </p>
+
 
 
 
