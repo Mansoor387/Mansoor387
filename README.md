@@ -22,10 +22,19 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
 -  🚀 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/mansoor-ahmad-4a3b4625a/)
 
 ## 🛠️ Languages and Tools: 
-## 🛠️ Skills  
+ 
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" width="48"/><img src="https://skillicons.dev/icons?i=cpp" width="48"/><img src="https://skillicons.dev/icons?i=sklearn" width="48"/><img src="https://skillicons.dev/icons?i=pandas" width="48"/><img src="https://skillicons.dev/icons?i=numpy" width="48"/><img src="https://skillicons.dev/icons?i=matplotlib" width="48"/><img src="https://skillicons.dev/icons?i=seaborn" width="48"/><img src="https://skillicons.dev/icons?i=mysql" width="48"/><img src="https://skillicons.dev/icons?i=postgresql" width="48"/><img src="https://skillicons.dev/icons?i=git" width="48"/><img src="https://skillicons.dev/icons?i=github" width="48"/><img src="https://skillicons.dev/icons?i=powerbi" width="48"/><img src="https://skillicons.dev/icons?i=excel" width="48"/><img src="https://skillicons.dev/icons?i=tableau" width="48"/><img src="https://skillicons.dev/icons?i=jupyter" width="48"/><img src="https://skillicons.dev/icons?i=vscode" width="48"/><img src="https://skillicons.dev/icons?i=googlecloud" width="48"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="48"/>
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="48"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" width="48"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" width="48"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="48"/>
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48"/>
+<img src="https://cdn.simpleicons.org/git/F05032" width="48"/>
+<img src="https://cdn.simpleicons.org/github/181717" width="48"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48"/>
+<img src="https://cdn.simpleicons.org/microsoft Excel/217346" width="48"/>
 </p>
 
 
