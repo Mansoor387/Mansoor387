@@ -23,8 +23,19 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
 
 ## 🛠️ Languages and Tools: 
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sklearn,pandas,numpy,matplotlib,seaborn,mysql,postgresql,git,powerbi,excel,tableau,jupyter,github,gitlab,vscode,googlecloud" />
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=30&labelColor=101010" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=30&labelColor=101010" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoWidth=30&labelColor=101010" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&logoWidth=30&labelColor=101010" />
+  <img src="https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=white&logoWidth=30&labelColor=101010" />
+  <img src="https://img.shields.io/badge/-Seaborn-4EABE6?style=for-the-badge&logo=python&logoColor=white&logoWidth=30&labelColor=101010" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&logoWidth=30&labelColor=101010" />
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&logoWidth=30&labelColor=101010" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&logoWidth=30&labelColor=101010" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=30&labelColor=101010" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=30&labelColor=101010" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&logoWidth=30&labelColor=101010" />
 </p>
 
 
