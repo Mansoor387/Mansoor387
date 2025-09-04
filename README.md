@@ -36,7 +36,6 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
-  <img src="https://img.icons8.com/color/48/000000/jupyter.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
 </p>
@@ -56,7 +55,18 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
   <a href="https://orcid.org/0009-0005-1116-788X" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="48" height="48" alt="ORCID"/>
   </a>
-</p>
+</p>  
+
+## 🛠️ Skills & Tools  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
 
 
 
