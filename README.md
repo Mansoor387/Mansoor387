@@ -68,7 +68,7 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
 
 ## 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mansoor387&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mansoor387&theme=tokyonight)  
 
 ## 
 <!-- Activity graph (heatmap) -->
