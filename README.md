@@ -57,11 +57,7 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
   </a>
 </p>  
 
-## 📊 GitHub Stats
-
-![Mansoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mansoor387&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansoor387&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansoor387&layout=compact&theme=tokyonight&hide=html,css&langs_count=10&count_private=true" />
 
 
 
