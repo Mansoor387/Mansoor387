@@ -24,7 +24,7 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
 ## 🛠️ Languages and Tools: 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,sklearn,pandas,numpy,matplotlib,seaborn,mysql,postgresql,git,github,powerbi,excel,tableau,jupyter,vscode,googlecloud" />
+  <img src="https://skillicons.dev/icons?i=python"/><img src="https://skillicons.dev/icons?i=cpp"/><img src="https://skillicons.dev/icons?i=sklearn"/><img src="https://skillicons.dev/icons?i=pandas"/><img src="https://skillicons.dev/icons?i=numpy"/><img src="https://skillicons.dev/icons?i=matplotlib"/><img src="https://skillicons.dev/icons?i=seaborn"/><img src="https://skillicons.dev/icons?i=mysql"/><img src="https://skillicons.dev/icons?i=postgresql"/><img src="https://skillicons.dev/icons?i=git"/><img src="https://skillicons.dev/icons?i=github"/><img src="https://skillicons.dev/icons?i=powerbi"/><img src="https://skillicons.dev/icons?i=excel"/><img src="https://skillicons.dev/icons?i=tableau"/><img src="https://skillicons.dev/icons?i=jupyter"/><img src="https://skillicons.dev/icons?i=vscode"/><img src="https://skillicons.dev/icons?i=googlecloud"/>
 </p>
 
 
