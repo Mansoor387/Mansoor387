@@ -21,21 +21,11 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
 -  📧 How to reach me: [mansoorbuzder6@gmail.com](mailto:mansoorbuzder6@gmail.com)
 -  🚀 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/mansoor-ahmad-4a3b4625a/)
 
-## 🛠️ Skills  
+## 🛠️ Languages and Tools: 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=plotly&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-4EABE6?style=flat&logo=python&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) 
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,sklearn,pandas,numpy,matplotlib,seaborn,mysql,postgresql,git,powerbi,excel,tableau,jupyter,github,gitlab,vscode,googlecloud" />
+</p>
+
+
+
