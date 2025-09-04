@@ -42,18 +42,19 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mansoor-ahmad-4a3b4625a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="mailto:mansoorbuzder6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail"/>
   </a>
   <a href="https://github.com/Mansoor387" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/>
   </a>
-  <a href="https://linktr.ee/your-portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  <a href="https://orcid.org/0009-0005-1116-788X" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/orcid.png" alt="ORCID"/>
   </a>
 </p>
+
 
 
 
