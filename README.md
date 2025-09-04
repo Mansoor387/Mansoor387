@@ -23,7 +23,7 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
 
 ## 🛠️ Languages and Tools: 
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python,cpp,sklearn,pandas,numpy,matplotlib,seaborn,mysql,postgresql,git,github,powerbi,excel,tableau,jupyter,vscode,googlecloud" />
 </p>
 
