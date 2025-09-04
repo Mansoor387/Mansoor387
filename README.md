@@ -23,21 +23,23 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
 
 ## 🛠️ Languages and Tools: 
  
+## 🛠️ Skills  
+
 <p>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
-  <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel.png"/>
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
-  <img src="https://img.icons8.com/color/48/000000/jupyter.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
+  <img src="./assets/icons/python.png" width="48"/>
+  <img src="./assets/icons/cpp.png" width="48"/>
+  <img src="./assets/icons/pandas.png" width="48"/>
+  <img src="./assets/icons/numpy.png" width="48"/>
+  <img src="./assets/icons/mysql.png" width="48"/>
+  <img src="./assets/icons/postgresql.png" width="48"/>
+  <img src="./assets/icons/git.png" width="48"/>
+  <img src="./assets/icons/github.png" width="48"/>
+  <img src="./assets/icons/powerbi.png" width="48"/>
+  <img src="./assets/icons/excel.png" width="48"/>
+  <img src="./assets/icons/tableau.png" width="48"/>
+  <img src="./assets/icons/jupyter.png" width="48"/>
+  <img src="./assets/icons/vscode.png" width="48"/>
+  <img src="./assets/icons/googlecloud.png" width="48"/>
 </p>
 
 
