@@ -64,7 +64,12 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
 <img src="https://github-readme-stats.vercel.app/api?username=Mansoor387&show_icons=true&theme=tokyonight" alt="Mansoor's GitHub stats" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansoor387&layout=compact&theme=tokyonight&langs_count=5" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansoor387&layout=compact&theme=tokyonight&langs_count=5" alt="Top Languages" />  
+
+## 
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mansoor387&theme=tokyonight)
+
 
 
 
