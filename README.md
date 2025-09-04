@@ -23,22 +23,21 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
 
 ## 🛠️ Languages and Tools: 
  
-
 <p>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="48"/>
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="48"/>
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="48"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="48"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48"/>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="48"/>
-  <img src="https://cdn.simpleicons.org/github/181717" width="48"/>
-  <img src="https://cdn.simpleicons.org/power-bi/F2C811" width="48"/>
-  <img src="https://cdn.simpleicons.org/microsoft-excel/217346" width="48"/>
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="48"/>
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48"/>
-  <img src="https://cdn.simpleicons.org/visual-studio-code/007ACC" width="48"/>
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="48"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel.png"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
+  <img src="https://img.icons8.com/color/48/000000/jupyter.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
 </p>
 
 
