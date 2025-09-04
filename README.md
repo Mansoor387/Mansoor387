@@ -1,5 +1,13 @@
-# Hi👋, I'm Mansoor Ahmad
-## 🚀 Artificial Intelligence| Data Analytics | Machine Learning | Deep Learning
+<div align="center">
+
+  # Hi, I'm Mansoor Ahmad 👋  
+
+</div>
+<div align="center">
+
+ ## 🚀 Artificial Intelligence| Data Analytics | Machine Learning | Deep Learning
+
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mansoor387&color=blue)
 
