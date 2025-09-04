@@ -22,26 +22,10 @@ I am **Mansoor Ahmad**, a **5th semester BS Data Science student** with a strong
 -  🚀 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/mansoor-ahmad-4a3b4625a/)
 
 ## 🛠️ Languages and Tools: 
-
+## 🛠️ Skills  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" style="display:inline-block;margin:0;padding:0;" width="48"/>
-  <img src="https://skillicons.dev/icons?i=cpp" style="display:inline-block;margin:0;padding:0;" width="48"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" style="display:inline-block;margin:0;padding:0;" width="48"/>
-  <img src="https://skillicons.dev/icons?i=pandas" style="display:inline-block;margin:0;padding:0;" width="48"/>
-  <img src="https://skillicons.dev/icons?i=numpy" style="display:inline-block;margin:0;padding:0;" width="48"/>
-  <img src="https://skillicons.dev/icons?i=matplotlib" style="display:inline-block;margin:0;padding:0;" width="48"/>
-  <img src="https://skillicons.dev/icons?i=seaborn" style="display:inline-block;margin:0;padding:0;" width="48"/>
-  <img src="https://skillicons.dev/icons?i=mysql" style="display:inline-block;margin:0;padding:0;" width="48"/>
-  <img src="https://skillicons.dev/icons?i=postgresql" style="display:inline-block;margin:0;padding:0;" width="48"/>
-  <img src="https://skillicons.dev/icons?i=git" style="display:inline-block;margin:0;padding:0;" width="48"/>
-  <img src="https://skillicons.dev/icons?i=github" style="display:inline-block;margin:0;padding:0;" width="48"/>
-  <img src="https://skillicons.dev/icons?i=powerbi" style="display:inline-block;margin:0;padding:0;" width="48"/>
-  <img src="https://skillicons.dev/icons?i=excel" style="display:inline-block;margin:0;padding:0;" width="48"/>
-  <img src="https://skillicons.dev/icons?i=tableau" style="display:inline-block;margin:0;padding:0;" width="48"/>
-  <img src="https://skillicons.dev/icons?i=jupyter" style="display:inline-block;margin:0;padding:0;" width="48"/>
-  <img src="https://skillicons.dev/icons?i=vscode" style="display:inline-block;margin:0;padding:0;" width="48"/>
-  <img src="https://skillicons.dev/icons?i=googlecloud" style="display:inline-block;margin:0;padding:0;" width="48"/>
+<img src="https://skillicons.dev/icons?i=python" width="48"/><img src="https://skillicons.dev/icons?i=cpp" width="48"/><img src="https://skillicons.dev/icons?i=sklearn" width="48"/><img src="https://skillicons.dev/icons?i=pandas" width="48"/><img src="https://skillicons.dev/icons?i=numpy" width="48"/><img src="https://skillicons.dev/icons?i=matplotlib" width="48"/><img src="https://skillicons.dev/icons?i=seaborn" width="48"/><img src="https://skillicons.dev/icons?i=mysql" width="48"/><img src="https://skillicons.dev/icons?i=postgresql" width="48"/><img src="https://skillicons.dev/icons?i=git" width="48"/><img src="https://skillicons.dev/icons?i=github" width="48"/><img src="https://skillicons.dev/icons?i=powerbi" width="48"/><img src="https://skillicons.dev/icons?i=excel" width="48"/><img src="https://skillicons.dev/icons?i=tableau" width="48"/><img src="https://skillicons.dev/icons?i=jupyter" width="48"/><img src="https://skillicons.dev/icons?i=vscode" width="48"/><img src="https://skillicons.dev/icons?i=googlecloud" width="48"/>
 </p>
 
 
